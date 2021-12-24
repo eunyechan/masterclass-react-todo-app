@@ -22,6 +22,7 @@ time, mark, audio, video {
   font-size: 100%;
   font: inherit;
   vertical-align: baseline;
+
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
@@ -34,6 +35,7 @@ footer, header, hgroup, main, menu, nav, section {
 }
 body {
   line-height: 1;
+  background-color: #222424;
 }
 menu, ol, ul {
   list-style: none;
@@ -54,13 +56,11 @@ table {
   box-sizing: border-box;
 }
 body {
-  font-weight: 300;
   font-family: 'Source Sans Pro', sans-serif;
-  line-height: 1.2;
 }
 a {
   text-decoration:none;
-  color:inherit;
+  color: inherit;
 }
 `;
 
