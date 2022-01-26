@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/masterclass-react-todo/static/js/main.918b9d3a.chunk.js",
-    "main.js.map": "/masterclass-react-todo/static/js/main.918b9d3a.chunk.js.map",
-    "runtime-main.js": "/masterclass-react-todo/static/js/runtime-main.2c55765e.js",
-    "runtime-main.js.map": "/masterclass-react-todo/static/js/runtime-main.2c55765e.js.map",
-    "static/js/2.bd267704.chunk.js": "/masterclass-react-todo/static/js/2.bd267704.chunk.js",
-    "static/js/2.bd267704.chunk.js.map": "/masterclass-react-todo/static/js/2.bd267704.chunk.js.map",
-    "index.html": "/masterclass-react-todo/index.html",
-    "static/js/2.bd267704.chunk.js.LICENSE.txt": "/masterclass-react-todo/static/js/2.bd267704.chunk.js.LICENSE.txt"
+    "main.js": "/masterclass-react-todo-app/static/js/main.918b9d3a.chunk.js",
+    "main.js.map": "/masterclass-react-todo-app/static/js/main.918b9d3a.chunk.js.map",
+    "runtime-main.js": "/masterclass-react-todo-app/static/js/runtime-main.0cf70405.js",
+    "runtime-main.js.map": "/masterclass-react-todo-app/static/js/runtime-main.0cf70405.js.map",
+    "static/js/2.c1846c4d.chunk.js": "/masterclass-react-todo-app/static/js/2.c1846c4d.chunk.js",
+    "static/js/2.c1846c4d.chunk.js.map": "/masterclass-react-todo-app/static/js/2.c1846c4d.chunk.js.map",
+    "index.html": "/masterclass-react-todo-app/index.html",
+    "static/js/2.c1846c4d.chunk.js.LICENSE.txt": "/masterclass-react-todo-app/static/js/2.c1846c4d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2c55765e.js",
-    "static/js/2.bd267704.chunk.js",
+    "static/js/runtime-main.0cf70405.js",
+    "static/js/2.c1846c4d.chunk.js",
     "static/js/main.918b9d3a.chunk.js"
   ]
 }
